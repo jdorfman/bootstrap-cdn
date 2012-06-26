@@ -9,7 +9,7 @@
     <link href="css/barometer.css" rel="stylesheet">
     
     <!-- Custom Styling for this site {bootstrapcdn.com} -->
-    <link href="//current.bootstrapcdn.com/css/bootstrapcdn.css?v=1.1" rel="stylesheet" >
+    <link href="//current.bootstrapcdn.com/css/bootstrapcdn.css?v=1.2" rel="stylesheet" >
 
 		    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
 		    <!--[if lt IE 9]>
